@@ -178,8 +178,3 @@ Database migrations are managed through Drizzle ORM.
 <div align="center">
   
 **Made with ❤️ by the Aditya Shriwas**
-
-[Visit Website](https://www.talecrafterai.tech/) • [Report Bug](https://github.com/adityashriwas/TaleCrafter-AI/issues) • [Request Feature](https://github.com/adityashriwas/TaleCrafter-AI/issues)
-
-</div>
-
