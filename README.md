@@ -1,29 +1,8 @@
-# TaleCrafter AI
-
-<div align="center">
-  <img src="https://socialify.git.ci/adityashriwas/TaleCrafter-AI/image?font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Dark" alt="TaleCrafter AI">
-</div>
-
----
-
 ## Overview
 
 **TaleCrafter AI** is an innovative, full-stack web application that leverages artificial intelligence to generate personalized, interactive storybooks. Users can create professionally illustrated and narrated stories by simply specifying their preferences. The platform combines advanced AI capabilities with an engaging user interface, providing a seamless experience for creating, reading, and sharing unique stories.
 
 Whether you're an author exploring new ideas, a parent seeking engaging content for children, or someone looking to bring imagination to life, TaleCrafter AI transforms creative prompts into complete, illustrated storybooks with professional narration.
-
----
-
-## 🚀 Live Demo
-
-Experience TaleCrafter AI in action:
-
-- **Primary**: [https://www.talecrafterai.tech/](https://www.talecrafterai.tech/)
-- **Backup**: [https://talecrafter-ai.vercel.app](https://talecrafter-ai.vercel.app/)
-
-<div align="center">
-  <img src="./public/demo.png" alt="Application Interface" width="100%">
-</div>
 
 ---
 
